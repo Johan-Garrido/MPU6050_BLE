@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "printk.h": "c",
+        "gatt.h": "c",
+        "uuid.h": "c",
+        "bluetooth.h": "c",
+        "types.h": "c",
+        "i2c.h": "c",
+        "zephyr.h": "c",
+        "stdio.h": "c",
+        "errno.h": "c",
+        "byteorder.h": "c"
+    }
+}
